@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraLightweightTextEditor", "UltraLightweightTextEditor\UltraLightweightTextEditor.csproj", "{E8A90634-B08E-47C5-BF90-1B58F0A2A18B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8A90634-B08E-47C5-BF90-1B58F0A2A18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A90634-B08E-47C5-BF90-1B58F0A2A18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A90634-B08E-47C5-BF90-1B58F0A2A18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A90634-B08E-47C5-BF90-1B58F0A2A18B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A46A28-EEDE-487D-A465-68B5DAD5FC31}
+	EndGlobalSection
+EndGlobal
